@@ -1,0 +1,9 @@
+ @ManegedBean
+
+public class Meubean {
+     
+     
+     
+
+    
+}
